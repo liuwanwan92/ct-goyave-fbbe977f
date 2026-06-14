@@ -1,0 +1,8 @@
+{
+    "malformed-request": "Malformed request",
+    "malformed-json": "Malformed JSON",
+    "custom-line": "Custom line",
+    "placeholder": "Line with :placeholders",
+    "many-placeholders": "Line with :count :placeholders",
+    "test-load": "load US"
+}
